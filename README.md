@@ -110,6 +110,6 @@ The following test cases were performed:
 
 ## Author
 
-**Shrinithi K**
+**Shrinithi K L**
 
 ECE Student | RTL Design | Digital Design | VLSI Enthusiast
